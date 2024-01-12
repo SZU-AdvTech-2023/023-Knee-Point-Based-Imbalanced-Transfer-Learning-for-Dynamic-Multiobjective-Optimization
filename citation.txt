@@ -1,0 +1,9 @@
+@article{REPO023,
+    author = "Jiang, Min and Wang, Zhenzhong and Hong, Haokai and Yen, Gary G.",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    number = "1",
+    pages = "117-129",
+    title = "{Knee Point-Based Imbalanced Transfer Learning for Dynamic Multiobjective Optimization}",
+    volume = "25",
+    year = "2021"
+}
